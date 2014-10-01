@@ -9001,7 +9001,7 @@ CM	04	2233500	Département de la Boumba-Ngoko	Departement de la Boumba-Ngoko	223
 CM	13	2234396	Département de la Bénoué	Departement de la Benoue	2234396
 CM	08	2234948	Département de Bamoun	Departement de Bamoun	2234948
 CM	08	2234988	Département de Bamboutos	Departement de Bamboutos	2234988
-CM	10	2236016	Département de l’ Adamaoua	Departement de l' Adamaoua	2236016
+CM	10	2236016	Département de l’Adamaoua	Departement de l'Adamaoua	2236016
 CM	10	7670946	Djerem	Djerem	7670946
 CM	10	7670947	Faro-et-Deo	Faro-et-Deo	7670947
 CM	10	7670948	Vina	Vina	7670948
